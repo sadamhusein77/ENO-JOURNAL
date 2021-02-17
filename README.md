@@ -1,0 +1,8 @@
+![Alt text](/gambar_aplikasi/Dashboard_Admin.png?raw=true "Dashboard_Admin")
+![Alt text](/gambar_aplikasi/Dashboard_User.png?raw=true "Dashboard_User")
+![Alt text](/gambar_aplikasi/Login.png?raw=true "Login")
+![Alt text](/gambar_aplikasi/Output_Cash_In.png?raw=true "Output_Cash_In")
+![Alt text](/gambar_aplikasi/Output_Cash_Out.png?raw=true "Output_Cash_Out")
+![Alt text](/gambar_aplikasi/Output_Invoice.png?raw=true "Output_Invoice")
+![Alt text](/gambar_aplikasi/Output_nota_pembelian.png?raw=true "Output_nota_pembelian")
+![Alt text](/gambar_aplikasi/Output_Purchase_Order.png?raw=true "Output_Purchase_Order")
